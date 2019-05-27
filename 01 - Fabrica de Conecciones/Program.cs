@@ -14,7 +14,9 @@ namespace _01___Fabrica_de_Conecciones
 
             //Crear, establecer utilizar y luego cerrar la conexion
 
-            Console.ReadLine();
+            //Realizar una pausa
+            Console.Read();
+            //Primero se debe guardar local y luego hacer el commit
         }
     }
 }
