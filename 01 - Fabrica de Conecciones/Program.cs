@@ -4,19 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01___Fabrica_de_Conecciones
+namespace _01___Fábrica_de_Conexiones
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("****** Una sencilla Fabrica de conecciones ******");
+            Console.WriteLine("***** Una sencilla fábrica de conexiones *****");
 
-            //Crear, establecer utilizar y luego cerrar la conexion
+            // Crear, establecer utilizar y luego cerrar la conexíón
 
-            //Realizar una pausa
+
+            // Realizar una pausa
             Console.Read();
-            //Primero se debe guardar local y luego hacer el commit
         }
     }
 }
